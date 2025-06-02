@@ -64,13 +64,13 @@ Tableau comparatif :
 |------------------------------|---------------------------|---------------------------------|
 |    Schéma	                   |      Fixe	               |            Flexible             |
 |------------------------------|---------------------------|---------------------------------|
-|    Langage de requête	             SQL	                           Requêtes BSON/JSON    |
+|    Langage de requête	       |     SQL	               |           Requêtes BSON/JSON    |
 |------------------------------|---------------------------|---------------------------------|
-|    Relations	                     Forte (jointures)	               Faible (imbriqué)     |
+|    Relations	               |      Forte (jointures)	   |            Faible (imbriqué)    |
 |------------------------------|---------------------------|---------------------------------|
-|    Scalabilité	                 Verticale	                       Horizontale           |
+|    Scalabilité	           |      Verticale	           |            Horizontale          |
 |------------------------------|---------------------------|---------------------------------|
-|    Cas d’usage typique	         ERP, banques	                   IoT, réseaux sociaux  |
+|    Cas d’usage typique	   |      ERP, banques	       |            IoT, réseaux sociaux |
 |------------------------------|---------------------------|---------------------------------|
 
 
